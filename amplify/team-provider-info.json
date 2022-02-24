@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cryptotrack-dev-173120-authRole",
+      "UnauthRoleArn": "arn:aws:iam::284260840518:role/amplify-cryptotrack-dev-173120-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::284260840518:role/amplify-cryptotrack-dev-173120-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-cryptotrack-dev-173120-deployment",
+      "UnauthRoleName": "amplify-cryptotrack-dev-173120-unauthRole",
+      "StackName": "amplify-cryptotrack-dev-173120",
+      "StackId": "arn:aws:cloudformation:us-west-2:284260840518:stack/amplify-cryptotrack-dev-173120/d66cbed0-9586-11ec-b2ae-06e4a632c85d",
+      "AmplifyAppId": "d25ps3cf047c0q"
+    },
+    "categories": {
+      "auth": {
+        "cryptotracka1a8a088": {}
+      }
+    }
+  }
+}
